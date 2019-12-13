@@ -1,0 +1,15 @@
+com\pe\reto\retoms\config\SwaggerConfig.class
+com\pe\reto\retoms\bean\ResponseBean.class
+com\pe\reto\retoms\util\DesvStandard.class
+com\pe\reto\retoms\config\ApplicationProperties.class
+com\pe\reto\retoms\bean\CustomerKpiResponseBean.class
+com\pe\reto\retoms\model\Customer.class
+com\pe\reto\retoms\bean\ListCustomerResponseBean.class
+com\pe\reto\retoms\RetomsApplication.class
+com\pe\reto\retoms\service\CustomerService.class
+com\pe\reto\retoms\util\Constantes.class
+com\pe\reto\retoms\repository\CustomerRepository.class
+com\pe\reto\retoms\bean\CustomerResponseBean.class
+com\pe\reto\retoms\controller\CustomerController.class
+com\pe\reto\retoms\bean\CustomerRequestBean.class
+com\pe\reto\retoms\service\impl\CustomerServiceImpl.class
